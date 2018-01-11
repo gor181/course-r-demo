@@ -1,7 +1,0 @@
-rules:
-  num_tasks:
-    max: 10
-  num_items_instructions:
-    max: 5
-  num_chars_project_title:
-    max: 500
